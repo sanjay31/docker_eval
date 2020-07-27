@@ -1,4 +1,4 @@
-#! python
+#!/usr/bin/env python
 
 import urllib.request as urlRq
 import json
